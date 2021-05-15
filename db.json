@@ -10,10 +10,14 @@
          "courseResources":[
             {
                "name":"Acronym and Definition List",
+               "link":"https://fake.com/dummy.xlsx",
+               "type":"xlsx",
                "size":"0.3Mb"
             },
             {
                "name":"Cyber Incident Checklist",
+               "link":"https://fake.com/dummy.pdf",
+               "type":"pdf",
                "size":"2Mb"
             }
          ]
@@ -28,10 +32,14 @@
          "courseResources":[
             {
                "name":"Acronym and Definition List",
+               "link":"https://fake.com/dummy.xlsx",
+               "type":"xlsx",
                "size":"0.3Mb"
             },
             {
                "name":"Cyber Incident Checklist",
+               "link":"https://fake.com/dummy.pdf",
+               "type":"pdf",
                "size":"2Mb"
             }
          ]
@@ -46,10 +54,14 @@
          "courseResources":[
             {
                "name":"Acronym and Definition List",
+               "link":"https://fake.com/dummy.xlsx",
+               "type":"xlsx",
                "size":"0.3Mb"
             },
             {
                "name":"Cyber Incident Checklist",
+               "link":"https://fake.com/dummy.pdf",
+               "type":"pdf",
                "size":"2Mb"
             }
          ]
@@ -64,10 +76,14 @@
          "courseResources":[
             {
                "name":"Acronym and Definition List",
+               "link":"https://fake.com/dummy.xlsx",
+               "type":"xlsx",
                "size":"0.3Mb"
             },
             {
                "name":"Cyber Incident Checklist",
+               "link":"https://fake.com/dummy.pdf",
+               "type":"pdf",
                "size":"2Mb"
             }
          ]
@@ -82,10 +98,14 @@
          "courseResources":[
             {
                "name":"Acronym and Definition List",
+               "link":"https://fake.com/dummy.xlsx",
+               "type":"xlsx",
                "size":"0.3Mb"
             },
             {
                "name":"Cyber Incident Checklist",
+               "link":"https://fake.com/dummy.pdf",
+               "type":"pdf",
                "size":"2Mb"
             }
          ]
@@ -100,10 +120,14 @@
          "courseResources":[
             {
                "name":"Acronym and Definition List",
+               "link":"https://fake.com/dummy.xlsx",
+               "type":"xlsx",
                "size":"0.3Mb"
             },
             {
                "name":"Cyber Incident Checklist",
+               "link":"https://fake.com/dummy.pdf",
+               "type":"pdf",
                "size":"2Mb"
             }
          ]
@@ -118,10 +142,14 @@
          "courseResources":[
             {
                "name":"Acronym and Definition List",
+               "link":"https://fake.com/dummy.xlsx",
+               "type":"xlsx",
                "size":"0.3Mb"
             },
             {
                "name":"Cyber Incident Checklist",
+               "link":"https://fake.com/dummy.pdf",
+               "type":"pdf",
                "size":"2Mb"
             }
          ]
@@ -136,10 +164,14 @@
          "courseResources":[
             {
                "name":"Acronym and Definition List",
+               "link":"https://fake.com/dummy.xlsx",
+               "type":"xlsx",
                "size":"0.3Mb"
             },
             {
                "name":"Cyber Incident Checklist",
+               "link":"https://fake.com/dummy.pdf",
+               "type":"pdf",
                "size":"2Mb"
             }
          ]
