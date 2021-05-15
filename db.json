@@ -1,180 +1,180 @@
 {
-   "videos":[
-      {
-         "id":1,
-         "title":"Introduction",
-         "videoId":"546117812",
-         "theme":"default",
-         "duration":"22m 35s",
-         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque ac mauris in rhoncus.\n                  Aliquam vel ipsum nec leo euismod ornare. Nam orci mauris, finibus non felis sit amet, laoreet\n                  imperdiet dolor. Sed at ligula sed mauris accumsan venenatis vel sed ex. Nulla vehicula est non\n                  condimentum blandit. Vivamus in urna placerat libero rhoncus rutrum. Nulla ut egestas elit.",
-         "courseResources":[
-            {
-               "name":"Acronym and Definition List",
-               "link":"https://fake.com/dummy.xlsx",
-               "type":"xlsx",
-               "size":"0.3Mb"
-            },
-            {
-               "name":"Cyber Incident Checklist",
-               "link":"https://fake.com/dummy.pdf",
-               "type":"pdf",
-               "size":"2Mb"
-            }
-         ]
-      },
-      {
-         "id":2,
-         "title":"Yahoo Breach",
-         "videoId":"517298823",
-         "theme":"purple",
-         "duration":"22m 35s",
-         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque ac mauris in rhoncus.\n                  Aliquam vel ipsum nec leo euismod ornare. Nam orci mauris, finibus non felis sit amet, laoreet\n                  imperdiet dolor. Sed at ligula sed mauris accumsan venenatis vel sed ex. Nulla vehicula est non\n                  condimentum blandit. Vivamus in urna placerat libero rhoncus rutrum. Nulla ut egestas elit.",
-         "courseResources":[
-            {
-               "name":"Acronym and Definition List",
-               "link":"https://fake.com/dummy.xlsx",
-               "type":"xlsx",
-               "size":"0.3Mb"
-            },
-            {
-               "name":"Cyber Incident Checklist",
-               "link":"https://fake.com/dummy.pdf",
-               "type":"pdf",
-               "size":"2Mb"
-            }
-         ]
-      },
-      {
-         "id":3,
-         "title":"Maersk Attack",
-         "videoId":"547868060",
-         "theme":"light-blue",
-         "duration":"22m 35s",
-         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque ac mauris in rhoncus.\n                  Aliquam vel ipsum nec leo euismod ornare. Nam orci mauris, finibus non felis sit amet, laoreet\n                  imperdiet dolor. Sed at ligula sed mauris accumsan venenatis vel sed ex. Nulla vehicula est non\n                  condimentum blandit. Vivamus in urna placerat libero rhoncus rutrum. Nulla ut egestas elit.",
-         "courseResources":[
-            {
-               "name":"Acronym and Definition List",
-               "link":"https://fake.com/dummy.xlsx",
-               "type":"xlsx",
-               "size":"0.3Mb"
-            },
-            {
-               "name":"Cyber Incident Checklist",
-               "link":"https://fake.com/dummy.pdf",
-               "type":"pdf",
-               "size":"2Mb"
-            }
-         ]
-      },
-      {
-         "id":4,
-         "title":"Equifax Breach",
-         "videoId":"541567086",
-         "theme":"rose",
-         "duration":"22m 35s",
-         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque ac mauris in rhoncus.\n                  Aliquam vel ipsum nec leo euismod ornare. Nam orci mauris, finibus non felis sit amet, laoreet\n                  imperdiet dolor. Sed at ligula sed mauris accumsan venenatis vel sed ex. Nulla vehicula est non\n                  condimentum blandit. Vivamus in urna placerat libero rhoncus rutrum. Nulla ut egestas elit.",
-         "courseResources":[
-            {
-               "name":"Acronym and Definition List",
-               "link":"https://fake.com/dummy.xlsx",
-               "type":"xlsx",
-               "size":"0.3Mb"
-            },
-            {
-               "name":"Cyber Incident Checklist",
-               "link":"https://fake.com/dummy.pdf",
-               "type":"pdf",
-               "size":"2Mb"
-            }
-         ]
-      },
-      {
-         "id":5,
-         "title":"Adobe Breach",
-         "videoId":"545630164",
-         "theme":"red",
-         "duration":"22m 35s",
-         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque ac mauris in rhoncus.\n                  Aliquam vel ipsum nec leo euismod ornare. Nam orci mauris, finibus non felis sit amet, laoreet\n                  imperdiet dolor. Sed at ligula sed mauris accumsan venenatis vel sed ex. Nulla vehicula est non\n                  condimentum blandit. Vivamus in urna placerat libero rhoncus rutrum. Nulla ut egestas elit.",
-         "courseResources":[
-            {
-               "name":"Acronym and Definition List",
-               "link":"https://fake.com/dummy.xlsx",
-               "type":"xlsx",
-               "size":"0.3Mb"
-            },
-            {
-               "name":"Cyber Incident Checklist",
-               "link":"https://fake.com/dummy.pdf",
-               "type":"pdf",
-               "size":"2Mb"
-            }
-         ]
-      },
-      {
-         "id":6,
-         "title":"eBay Breach",
-         "videoId":"546795671",
-         "theme":"yellow",
-         "duration":"22m 35s",
-         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque ac mauris in rhoncus.\n                  Aliquam vel ipsum nec leo euismod ornare. Nam orci mauris, finibus non felis sit amet, laoreet\n                  imperdiet dolor. Sed at ligula sed mauris accumsan venenatis vel sed ex. Nulla vehicula est non\n                  condimentum blandit. Vivamus in urna placerat libero rhoncus rutrum. Nulla ut egestas elit.",
-         "courseResources":[
-            {
-               "name":"Acronym and Definition List",
-               "link":"https://fake.com/dummy.xlsx",
-               "type":"xlsx",
-               "size":"0.3Mb"
-            },
-            {
-               "name":"Cyber Incident Checklist",
-               "link":"https://fake.com/dummy.pdf",
-               "type":"pdf",
-               "size":"2Mb"
-            }
-         ]
-      },
-      {
-         "id":7,
-         "title":"LinkedIn Breach",
-         "videoId":"498357785",
-         "theme":"blue",
-         "duration":"22m 35s",
-         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque ac mauris in rhoncus.\n                  Aliquam vel ipsum nec leo euismod ornare. Nam orci mauris, finibus non felis sit amet, laoreet\n                  imperdiet dolor. Sed at ligula sed mauris accumsan venenatis vel sed ex. Nulla vehicula est non\n                  condimentum blandit. Vivamus in urna placerat libero rhoncus rutrum. Nulla ut egestas elit.",
-         "courseResources":[
-            {
-               "name":"Acronym and Definition List",
-               "link":"https://fake.com/dummy.xlsx",
-               "type":"xlsx",
-               "size":"0.3Mb"
-            },
-            {
-               "name":"Cyber Incident Checklist",
-               "link":"https://fake.com/dummy.pdf",
-               "type":"pdf",
-               "size":"2Mb"
-            }
-         ]
-      },
-      {
-         "id":8,
-         "title":"Conclusion",
-         "videoId":"546172776",
-         "theme":"default",
-         "duration":"22m 35s",
-         "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque ac mauris in rhoncus.\n                  Aliquam vel ipsum nec leo euismod ornare. Nam orci mauris, finibus non felis sit amet, laoreet\n                  imperdiet dolor. Sed at ligula sed mauris accumsan venenatis vel sed ex. Nulla vehicula est non\n                  condimentum blandit. Vivamus in urna placerat libero rhoncus rutrum. Nulla ut egestas elit.",
-         "courseResources":[
-            {
-               "name":"Acronym and Definition List",
-               "link":"https://fake.com/dummy.xlsx",
-               "type":"xlsx",
-               "size":"0.3Mb"
-            },
-            {
-               "name":"Cyber Incident Checklist",
-               "link":"https://fake.com/dummy.pdf",
-               "type":"pdf",
-               "size":"2Mb"
-            }
-         ]
-      }
-   ]
+  "videos":[
+    {
+      "id":1,
+      "title":"Introduction",
+      "videoId":"546117812",
+      "theme":"default",
+      "duration":"22m 35s",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque ac mauris in rhoncus.\n                  Aliquam vel ipsum nec leo euismod ornare. Nam orci mauris, finibus non felis sit amet, laoreet\n                  imperdiet dolor. Sed at ligula sed mauris accumsan venenatis vel sed ex. Nulla vehicula est non\n                  condimentum blandit. Vivamus in urna placerat libero rhoncus rutrum. Nulla ut egestas elit.",
+      "courseResources":[
+        {
+          "name":"Acronym and Definition List",
+          "link": "https://fake.com/dummy.xlsx",
+          "type": "excel",
+          "size":"0.3Mb"
+        },
+        {
+          "name":"Cyber Incident Checklist",
+          "link": "https://fake.com/dummy.pdf",
+          "type": "powerpoint",
+          "size":"2Mb"
+        }
+      ]
+    },
+    {
+      "id":2,
+      "title":"Yahoo Breach",
+      "videoId":"517298823",
+      "theme":"purple",
+      "duration":"22m 35s",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque ac mauris in rhoncus.\n                  Aliquam vel ipsum nec leo euismod ornare. Nam orci mauris, finibus non felis sit amet, laoreet\n                  imperdiet dolor. Sed at ligula sed mauris accumsan venenatis vel sed ex. Nulla vehicula est non\n                  condimentum blandit. Vivamus in urna placerat libero rhoncus rutrum. Nulla ut egestas elit.",
+      "courseResources":[
+        {
+          "name":"Acronym and Definition List",
+          "link": "https://fake.com/dummy.xlsx",
+          "type": "excel",
+          "size":"0.3Mb"
+        },
+        {
+          "name":"Cyber Incident Checklist",
+          "link": "https://fake.com/dummy.pdf",
+          "type": "powerpoint",
+          "size":"2Mb"
+        }
+      ]
+    },
+    {
+      "id":3,
+      "title":"Maersk Attack",
+      "videoId":"547868060",
+      "theme":"light-blue",
+      "duration":"22m 35s",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque ac mauris in rhoncus.\n                  Aliquam vel ipsum nec leo euismod ornare. Nam orci mauris, finibus non felis sit amet, laoreet\n                  imperdiet dolor. Sed at ligula sed mauris accumsan venenatis vel sed ex. Nulla vehicula est non\n                  condimentum blandit. Vivamus in urna placerat libero rhoncus rutrum. Nulla ut egestas elit.",
+      "courseResources":[
+        {
+          "name":"Acronym and Definition List",
+          "link": "https://fake.com/dummy.xlsx",
+          "type": "excel",
+          "size":"0.3Mb"
+        },
+        {
+          "name":"Cyber Incident Checklist",
+          "link": "https://fake.com/dummy.pdf",
+          "type": "powerpoint",
+          "size":"2Mb"
+        }
+      ]
+    },
+    {
+      "id":4,
+      "title":"Equifax Breach",
+      "videoId":"541567086",
+      "theme":"rose",
+      "duration":"22m 35s",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque ac mauris in rhoncus.\n                  Aliquam vel ipsum nec leo euismod ornare. Nam orci mauris, finibus non felis sit amet, laoreet\n                  imperdiet dolor. Sed at ligula sed mauris accumsan venenatis vel sed ex. Nulla vehicula est non\n                  condimentum blandit. Vivamus in urna placerat libero rhoncus rutrum. Nulla ut egestas elit.",
+      "courseResources":[
+        {
+          "name":"Acronym and Definition List",
+          "link": "https://fake.com/dummy.xlsx",
+          "type": "excel",
+          "size":"0.3Mb"
+        },
+        {
+          "name":"Cyber Incident Checklist",
+          "link": "https://fake.com/dummy.pdf",
+          "type": "powerpoint",
+          "size":"2Mb"
+        }
+      ]
+    },
+    {
+      "id":5,
+      "title":"Adobe Breach",
+      "videoId":"545630164",
+      "theme":"red",
+      "duration":"22m 35s",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque ac mauris in rhoncus.\n                  Aliquam vel ipsum nec leo euismod ornare. Nam orci mauris, finibus non felis sit amet, laoreet\n                  imperdiet dolor. Sed at ligula sed mauris accumsan venenatis vel sed ex. Nulla vehicula est non\n                  condimentum blandit. Vivamus in urna placerat libero rhoncus rutrum. Nulla ut egestas elit.",
+      "courseResources":[
+        {
+          "name":"Acronym and Definition List",
+          "link": "https://fake.com/dummy.xlsx",
+          "type": "excel",
+          "size":"0.3Mb"
+        },
+        {
+          "name":"Cyber Incident Checklist",
+          "link": "https://fake.com/dummy.pdf",
+          "type": "powerpoint",
+          "size":"2Mb"
+        }
+      ]
+    },
+    {
+      "id":6,
+      "title":"eBay Breach",
+      "videoId":"546795671",
+      "theme":"yellow",
+      "duration":"22m 35s",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque ac mauris in rhoncus.\n                  Aliquam vel ipsum nec leo euismod ornare. Nam orci mauris, finibus non felis sit amet, laoreet\n                  imperdiet dolor. Sed at ligula sed mauris accumsan venenatis vel sed ex. Nulla vehicula est non\n                  condimentum blandit. Vivamus in urna placerat libero rhoncus rutrum. Nulla ut egestas elit.",
+      "courseResources":[
+        {
+          "name":"Acronym and Definition List",
+          "link": "https://fake.com/dummy.xlsx",
+          "type": "excel",
+          "size":"0.3Mb"
+        },
+        {
+          "name":"Cyber Incident Checklist",
+          "link": "https://fake.com/dummy.pdf",
+          "type": "powerpoint",
+          "size":"2Mb"
+        }
+      ]
+    },
+    {
+      "id":7,
+      "title":"LinkedIn Breach",
+      "videoId":"498357785",
+      "theme":"blue",
+      "duration":"22m 35s",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque ac mauris in rhoncus.\n                  Aliquam vel ipsum nec leo euismod ornare. Nam orci mauris, finibus non felis sit amet, laoreet\n                  imperdiet dolor. Sed at ligula sed mauris accumsan venenatis vel sed ex. Nulla vehicula est non\n                  condimentum blandit. Vivamus in urna placerat libero rhoncus rutrum. Nulla ut egestas elit.",
+      "courseResources":[
+        {
+          "name":"Acronym and Definition List",
+          "link": "https://fake.com/dummy.xlsx",
+          "type": "excel",
+          "size":"0.3Mb"
+        },
+        {
+          "name":"Cyber Incident Checklist",
+          "link": "https://fake.com/dummy.pdf",
+          "type": "powerpoint",
+          "size":"2Mb"
+        }
+      ]
+    },
+    {
+      "id":8,
+      "title":"Conclusion",
+      "videoId":"546172776",
+      "theme":"default",
+      "duration":"22m 35s",
+      "description":"Lorem ipsum dolor sit amet, consectetur adipiscing elit. Fusce scelerisque ac mauris in rhoncus.\n                  Aliquam vel ipsum nec leo euismod ornare. Nam orci mauris, finibus non felis sit amet, laoreet\n                  imperdiet dolor. Sed at ligula sed mauris accumsan venenatis vel sed ex. Nulla vehicula est non\n                  condimentum blandit. Vivamus in urna placerat libero rhoncus rutrum. Nulla ut egestas elit.",
+      "courseResources":[
+        {
+          "name":"Acronym and Definition List",
+          "link": "https://fake.com/dummy.xlsx",
+          "type": "excel",
+          "size":"0.3Mb"
+        },
+        {
+          "name":"Cyber Incident Checklist",
+          "link": "https://fake.com/dummy.pdf",
+          "type": "powerpoint",
+          "size":"2Mb"
+        }
+      ]
+    }
+  ]
 }
